@@ -22,7 +22,7 @@ This project is an educational Amazon homepage clone built using HTML and CSS fo
 
 ## 🌐 Live Demo
 
-https://codervishy.github.io/Amazon-clone/
+https://codervishy.github.io/amazon-ui-clone-html-css-ecommerce-clone/
 
 ## 📸 Screenshot
 
