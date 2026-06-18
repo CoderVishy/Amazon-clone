@@ -2,6 +2,8 @@
 
 A responsive Amazon homepage clone built using HTML and CSS.
 
+This project is an educational Amazon homepage clone built using HTML and CSS for learning purposes only. It is not affiliated with Amazon.
+
 ## 🚀 Features
 
 - Amazon-style navigation bar
